@@ -18,6 +18,10 @@ const Social = () => {
             name: 'Facebook',
             link: 'https://facebook.com/kobinneupane',
         },
+        {
+            name: 'Linkedin',
+            link: 'https://linkedin.com/kobinneupane',
+        },
     ]
 
     return (
