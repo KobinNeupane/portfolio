@@ -7,8 +7,8 @@ const Inprogress = () => {
             description: 'API Provider'
         },
         {
-            name: '8085',
-            description: 'Case Study'
+            name: 'backend',
+            description: 'Node js '
         },
     ]
     return (
